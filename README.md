@@ -1,0 +1,2 @@
+# AUTOMATED-ATTENDANCE-SYSTEM-USING-FACE-RECOGNITION
+OpenCV based attendance marking system
